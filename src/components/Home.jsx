@@ -11,7 +11,6 @@ want to only show today's tasks on the home page
 
 function Home() {
     const { authUser } = useAuth();
-    const [listen, setListen] = useState(true);
     const [tasks, setTasks] = useState([]);
 
     useEffect(() => {
