@@ -1,0 +1,29 @@
+.leftbar-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(238, 218, 192);
+    height: 100vh;
+    width: 10vw;
+    display: flex;
+    flex-direction: column;
+    line-height: 3;
+    padding-top: 30px;
+}
+
+.leftLink {
+    color: rgb(19, 99, 8);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.leftLink:hover {
+    color: rgb(52, 190, 34);
+}
+
+.bottom {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    right: 0;
+}

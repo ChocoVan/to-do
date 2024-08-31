@@ -1,0 +1,18 @@
+.card {
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input {
+    margin-left: 20px;
+
+}  
+
+.info-container {
+    margin: 0 auto;
+    padding-right: 20px;
+}
