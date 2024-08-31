@@ -33,6 +33,6 @@ This is the form the user uses to add tasks.
 ![image](https://github.com/user-attachments/assets/2f1ebef2-cd4c-43e1-9edb-99fdf9529f0e)
 
 The user cannot submit a task on a date that has already passed.
-They also can't add a task if the task part of the form is not filled in.
+They also can't add a task if the task input of the form is not filled in.
 
 
