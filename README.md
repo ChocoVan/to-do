@@ -4,6 +4,12 @@
 
 ## Login Page
 
+![image](https://github.com/user-attachments/assets/c924577c-c630-4306-8431-3f6d5bc6d242)
+
+## Sign Up Page
+
+![image](https://github.com/user-attachments/assets/222663a7-5fb6-4501-808d-b87bcf403a9f)
+
 
 ## Home Page
 ![image](https://github.com/user-attachments/assets/f5bb8d7f-8162-4da0-9b55-4725d325a55b)
